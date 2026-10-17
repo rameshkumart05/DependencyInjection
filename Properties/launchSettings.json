@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Dependency Injection": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
